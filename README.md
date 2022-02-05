@@ -33,12 +33,12 @@ add inside build configuration:
 
 add after build configuration :
 
-    <distributionManagement>
-    <repository>
-        <id>repository</id>
-        <url>http://localhost/repository</url>
-    </repository>
-</distributionManagement>
+	<distributionManagement>
+		<repository>
+			<id>repository</id>
+			<url>http://localhost/repository</url>
+		</repository>
+	</distributionManagement>
 
 
 #### Consumer
